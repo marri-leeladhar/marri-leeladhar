@@ -418,27 +418,20 @@ Certification details are supported by the uploaded resumes. :contentReference[o
 
 ---
 
-## `09` — GITHUB TROPHIES
-
-<div align="center">
-
-<img src="./profile/trophy.svg" width="90%" alt="GitHub Trophies"/>
-
-</div>
 ---
 
-## `10` — CONTRIBUTION ACTIVITY
+## `9` — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marri-leeladhar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity"/>
+<img src="https://ghchart.rshah.org/6366f1/marri-leeladhar" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
 
-## `11` — CONTRIBUTION SNAKE
+## `10` — CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -448,7 +441,7 @@ Certification details are supported by the uploaded resumes. :contentReference[o
 
 ---
 
-## `12` — CURRENT FOCUS
+## `11` — CURRENT FOCUS
 
 ```yaml
 Learning:
