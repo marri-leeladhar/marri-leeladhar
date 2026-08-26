@@ -399,23 +399,30 @@ Certification details are supported by the uploaded resumes. :contentReference[o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marri-leeladhar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+<!-- GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marri-leeladhar&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=10" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=marri-leeladhar&show_icons=true&hide_border=true&theme=tokyonight" height="180" alt="GitHub Status"/>
+
+<!-- Top Languages -->
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marri-leeladhar&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=marri-leeladhar&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" width="70%"/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=marri-leeladhar&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
+
 ---
 
-## `9` — GITHUB TROPHIES
+## `09` — GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marri-leeladhar&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=marri-leeladhar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -425,11 +432,12 @@ Certification details are supported by the uploaded resumes. :contentReference[o
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marri-leeladhar&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=7C3AED&area=true&hide_border=true&custom_title=Leeladhar%20Marri%20%E2%80%94%20Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marri-leeladhar&theme=tokyo-night&hide_border=true&area=true&custom_title=Leeladhar%20Marri%20%E2%80%94%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
+
 
 ## `11` — CONTRIBUTION SNAKE
 
