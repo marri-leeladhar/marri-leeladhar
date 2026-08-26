@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6366F1,100:7C3AED&height=220&section=header&text=LEELADHAR%20MARRI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20%26%20Creative%20Technologist&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src=".github/workflows/header.png" width="100%" alt="Leeladhar Marri"
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+%26+Scalable+Applications;Python+%7C+React+%7C+REST+APIs+%7C+SQL+%7C+AI%2FML;Turning+Real-World+Problems+into+Digital+Products;Engineering+with+Code%2C+Data%2C+AI+%26+Design" alt="Typing SVG" />
