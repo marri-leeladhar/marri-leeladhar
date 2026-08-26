@@ -422,17 +422,16 @@ Certification details are supported by the uploaded resumes. :contentReference[o
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marri-leeladhar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="90%" alt="GitHub Trophies"/>
+<img src="./profile/trophy.svg" width="90%" alt="GitHub Trophies"/>
 
 </div>
-
 ---
 
 ## `10` — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marri-leeladhar&theme=tokyo-night&hide_border=true&area=true&custom_title=Leeladhar%20Marri%20%E2%80%94%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marri-leeladhar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
