@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/workflows/header.png" width="100%" alt="Leeladhar Marri">
+<img src="header.png" width="100%" alt="Leeladhar Marri">
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+%26+Scalable+Applications;Python+%7C+React+%7C+REST+APIs+%7C+SQL+%7C+AI%2FML;Turning+Real-World+Problems+into+Digital+Products;Engineering+with+Code%2C+Data%2C+AI+%26+Design" alt="Typing SVG" />
