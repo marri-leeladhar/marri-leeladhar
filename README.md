@@ -442,8 +442,8 @@ Certification details are supported by the uploaded resumes. :contentReference[o
 ---
 
 ## `11` — CURRENT FOCUS
-
-```yaml
+<div align="left">
+  
 Learning:
   - Advanced Artificial Intelligence & Machine Learning
   - Generative AI
@@ -478,3 +478,4 @@ Open To:
   - Data Engineering
   - Open Source Collaboration
   - Product Engineering
+    </div>
