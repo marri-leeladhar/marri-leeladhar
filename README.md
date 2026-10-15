@@ -14,9 +14,6 @@
 
 <br/><br/>
 
-<a href="https://designedbyld.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/marri-leeladhar">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
